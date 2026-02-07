@@ -1,7 +1,8 @@
 # Exercise 11 - tempConversion
 
 Write two functions that convert temperatures from Fahrenheit to Celsius, and vice versa:
-```
+
+```js
 convertToCelsius(32) // fahrenheit to celsius, should return 0
 
 convertToFahrenheit(0) // celsius to fahrenheit, should return 32
